@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Steve Collins and after 16 years working mainly in a supply chain and operations environment I'm transitioning into becoming a developer. I'm part of cohort 13 of **The School of Code**, training to be a full stack developer. 
+I'm Steve Collins and after 16 years working mainly in a supply chain and operations environment I'm doing a career change to become a developer. I'm part of cohort 13 of **The School of Code**, training to be a full stack developer. 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript via [TheSchoolOfCode](https://www.schoolofcode.co.uk)
 - 📫 How to reach me: [Twitter](https://twitter.com/Sunbearian) | [Linkedin](https://www.linkedin.com/in/steven-c-687b4b4b/)
